@@ -1,7 +1,8 @@
 # CIS_25 - Fall 2025
  Programming Using C++
 
-MODULE 7
+<b> MODULE 7 </b>
+
 This program defines a struct named 'Item' containing two attributes: name (string) and id (int). 
 The program dynamically allocates an array called "items", with the size of 100 elements in the array.
 Each item in the array is given a name and concatenated with an integer number corresponding to the item's index in the array. In this case, each item is named Name_00 where the two zeros are replaced with the next integer number for the next item in the array.
