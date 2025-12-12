@@ -1,0 +1,3 @@
+Deposit amount: $100
+Purchased textbook: $50
+Purchased lunch: $18
